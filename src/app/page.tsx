@@ -49,14 +49,14 @@ export default function Home() {
           >
             <Linkedin className="w-6 h-6" />
           </a>
-          <a
+          {/* <a
             href="https://github.com/hemilprajapati"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-white transition-colors"
           >
             <Github className="w-6 h-6" />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
